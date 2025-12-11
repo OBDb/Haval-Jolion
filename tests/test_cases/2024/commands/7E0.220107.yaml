@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     JOLION_OIL_T: 45.65
   response: 7E8056201070C74
+- expected_values:
+    JOLION_OIL_T: 46.95
+  response: 7E8056201070C81
+- expected_values:
+    JOLION_OIL_T: 47.55
+  response: 7E8056201070C87

@@ -7,6 +7,9 @@ test_cases:
     JOLION_BP_ACTUAL: 77.55469
   response: 7E80562010F26C7
 - expected_values:
+    JOLION_BP_ACTUAL: 77.64062
+  response: 7E80562010F26D2
+- expected_values:
     JOLION_BP_ACTUAL: 77.69531
   response: 7E80562010F26D9
 - expected_values:
