@@ -1,0 +1,20 @@
+command_id: 7E0.220177
+test_cases:
+- expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.01418
+  response: 7E80562017700BA
+- expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.01525
+  response: 7E80562017700C8
+- expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.02455
+  response: '7E8056201770142'
+- expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.02997
+  response: '7E8056201770189'
+- expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.03828
+  response: 7E80562017701F6
+- expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.5002
+  response: 7E80562017719A0
