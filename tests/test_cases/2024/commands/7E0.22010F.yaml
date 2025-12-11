@@ -1,0 +1,29 @@
+command_id: 7E0.22010F
+test_cases:
+- expected_values:
+    JOLION_BP_ACTUAL: 77.4375
+  response: 7E80562010F26B8
+- expected_values:
+    JOLION_BP_ACTUAL: 77.55469
+  response: 7E80562010F26C7
+- expected_values:
+    JOLION_BP_ACTUAL: 77.69531
+  response: 7E80562010F26D9
+- expected_values:
+    JOLION_BP_ACTUAL: 77.70312
+  response: 7E80562010F26DA
+- expected_values:
+    JOLION_BP_ACTUAL: 77.79688
+  response: 7E80562010F26E6
+- expected_values:
+    JOLION_BP_ACTUAL: 77.90625
+  response: 7E80562010F26F4
+- expected_values:
+    JOLION_BP_ACTUAL: 77.91406
+  response: 7E80562010F26F5
+- expected_values:
+    JOLION_BP_ACTUAL: 77.92188
+  response: 7E80562010F26F6
+- expected_values:
+    JOLION_BP_ACTUAL: 77.92969
+  response: 7E80562010F26F7

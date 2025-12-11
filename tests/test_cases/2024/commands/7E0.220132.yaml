@@ -1,0 +1,8 @@
+command_id: 7E0.220132
+test_cases:
+- expected_values:
+    JOLION_GEAR: 0
+  response: '7E80462013200'
+- expected_values:
+    JOLION_GEAR: 1
+  response: '7E80462013201'

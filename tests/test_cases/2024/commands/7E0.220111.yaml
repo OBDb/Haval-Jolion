@@ -1,0 +1,20 @@
+command_id: 7E0.220111
+test_cases:
+- expected_values:
+    JOLION_FUEL_FLOW: 0
+  response: '7E8056201110000'
+- expected_values:
+    JOLION_FUEL_FLOW: 2.10286
+  response: 7E80562011101EA
+- expected_values:
+    JOLION_FUEL_FLOW: 3.98686
+  response: 7E80562011103A1
+- expected_values:
+    JOLION_FUEL_FLOW: 4.33018
+  response: 7E80562011103F1
+- expected_values:
+    JOLION_FUEL_FLOW: 6.43305
+  response: 7E80562011105DB
+- expected_values:
+    JOLION_FUEL_FLOW: 7.37719
+  response: 7E80562011106B7
