@@ -1,10 +1,10 @@
 { "commands": [
 { "hdr": "782", "rax": "7C2", "fcm1": true, "dbg": true, "cmd": {"22": "6303"}, "freq": 1,
   "signals": [
-    {"id": "JOLION_ESP_FRONT_LEFT_WHEEL_SPEED",  "path": "Movement", "fmt": {           "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
-    {"id": "JOLION_ESP_FRONT_RIGHT_WHEEL_SPEED", "path": "Movement", "fmt": {"bix": 16, "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
-    {"id": "JOLION_ESP_REAR_LEFT_WHEEL_SPEED",   "path": "Movement", "fmt": {"bix": 32, "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"},
-    {"id": "JOLION_ESP_REAR_RIGHT_WHEEL_SPEED",  "path": "Movement", "fmt": {"bix": 48, "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
+    {"id": "JOLION_FRONT_LEFT_VSS",  "path": "Movement", "fmt": {           "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
+    {"id": "JOLION_FRONT_RIGHT_VSS", "path": "Movement", "fmt": {"bix": 16, "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
+    {"id": "JOLION_REAR_LEFT_VSS",   "path": "Movement", "fmt": {"bix": 32, "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"},
+    {"id": "JOLION_REAR_RIGHT_VSS",  "path": "Movement", "fmt": {"bix": 48, "len": 16, "max": 3686.34375, "mul": 0.05625, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "002F"}, "freq": 1,
   "signals": [
@@ -24,7 +24,7 @@
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "010F"}, "freq": 1,
   "signals": [
-    {"id": "JOLION_ACTUAL_BOOST_PRESSURE", "path": "Engine", "fmt": { "len": 16, "max": 511.9921875, "div": 128, "unit": "kilopascal" }, "name": "Boost pressure, actual"}
+    {"id": "JOLION_BP_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 511.9921875, "div": 128, "unit": "kilopascal" }, "name": "Boost pressure, actual"}
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "0111"}, "freq": 1,
   "signals": [
@@ -32,7 +32,7 @@
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "0112"}, "freq": 1,
   "signals": [
-    {"id": "JOLION_TARGET_BOOST_PRESSURE", "path": "Engine", "fmt": { "len": 16, "max": 511.9921875, "div": 128, "unit": "kilopascal" }, "name": "Boost pressure, target"}
+    {"id": "JOLION_BP_TARGET", "path": "Engine", "fmt": { "len": 16, "max": 511.9921875, "div": 128, "unit": "kilopascal" }, "name": "Boost pressure, target"}
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "0113"}, "freq": 1,
   "signals": [
