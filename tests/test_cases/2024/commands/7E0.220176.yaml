@@ -4,6 +4,9 @@ test_cases:
     JOLION_KNOCK_SENSOR_REFERENCE_CYL_3: 0.00839
   response: 7E805620176006E
 - expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_3: 0.0093
+  response: 7E805620176007A
+- expected_values:
     JOLION_KNOCK_SENSOR_REFERENCE_CYL_3: 0.01182
   response: 7E805620176009B
 - expected_values:

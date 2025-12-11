@@ -1,6 +1,12 @@
 command_id: 7E0.220113
 test_cases:
 - expected_values:
+    JOLION_PRESSURE_BEFORE_TURBOCHARGER: 77.63281
+  response: 7E80562011326D1
+- expected_values:
+    JOLION_PRESSURE_BEFORE_TURBOCHARGER: 77.64062
+  response: 7E80562011326D2
+- expected_values:
     JOLION_PRESSURE_BEFORE_TURBOCHARGER: 77.91406
   response: 7E80562011326F5
 - expected_values:

@@ -1,6 +1,9 @@
 command_id: 7E0.220177
 test_cases:
 - expected_values:
+    JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.00877
+  response: '7E8056201770073'
+- expected_values:
     JOLION_KNOCK_SENSOR_REFERENCE_CYL_4: 0.01418
   response: 7E80562017700BA
 - expected_values:
