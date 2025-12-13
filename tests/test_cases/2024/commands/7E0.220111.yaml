@@ -4,8 +4,8 @@ test_cases:
     JOLION_FUEL_FLOW: 0
   response: '7E8056201110000'
 - expected_values:
-    JOLION_FUEL_FLOW: 4.33018
-  response: 7E80562011103F1
+    JOLION_FUEL_FLOW: 6.58754
+  response: 7E80562011105FF
 - expected_values:
-    JOLION_FUEL_FLOW: 7.37719
-  response: 7E80562011106B7
+    JOLION_FUEL_FLOW: 8.87065
+  response: '7E8056201110813'
