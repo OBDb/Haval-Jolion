@@ -1,6 +1,9 @@
 command_id: 7E0.220106
 test_cases:
 - expected_values:
+    JOLION_FUEL_LEVEL_LITERS: 8
+  response: '7E8056201060050'
+- expected_values:
     JOLION_FUEL_LEVEL_LITERS: 46
   response: 7E80562010601CC
 - expected_values:
