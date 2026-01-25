@@ -1,7 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/Haval_Jolion"
+
 generations:
   - name: "First Generation"
     start_year: 2021
-    end_year: 2023
+    end_year: 2024
     description: "The Haval Jolion is a compact crossover SUV produced by Great Wall Motor's Haval marque, debuting in October 2020 at the Beijing Auto Show as a successor to the Haval H2. The first generation was launched in markets across three different regions with varying powertrains. In South Africa on 21 April 2021, it arrived with four trim levels (City, Premium, Luxury, and Super Luxury) powered exclusively by a 1.5-litre turbocharged four-cylinder petrol engine delivering 110 kW of power and 210 Nm of torque, paired with either a 6-speed manual or 7-speed dual-clutch transmission. The Australian market launch on 2 July 2021 offered three trim levels (Premium, Lux, and Ultra), also with the 1.5L turbo petrol engine and the 7-speed DCT as standard. Meanwhile, in Thailand, the Jolion launched on 25 November 2021 with three trim levels (Tech, Pro, and Ultra) exclusively with a 1.5-litre hybrid electric vehicle (HEV) powertrain featuring a 70 kW petrol engine combined with a 115 kW electric motor for a total system output of 140 kW and 375 Nm of torque. All variants were built on the L.E.M.O.N. platform (also used for the Haval Big Dog), measuring 4,472 mm long, 1,841 mm wide, and 1,574 mm tall, with a 2,700 mm wheelbase. The Jolion featured a 12.3-inch floating touchscreen infotainment system with Apple CarPlay and satellite navigation, a 7.0-inch digital instrument cluster, head-up display, comprehensive active safety features including autonomous emergency braking with pedestrian and cyclist detection, blind-spot monitoring, lane-keeping assist, rear cross-traffic alert, and other driver assistance systems. Other comfort features included a six-speaker sound system, synthetic leather upholstery, a six-way electric driver's seat with ventilation (on higher trims), dual-zone climate control, PM2.5 air filter, and wireless phone charging. The vehicle was backed by a seven-year unlimited-kilometre warranty and required servicing every 12 months or 15,000 km. The turbocharged petrol models achieved a claimed fuel consumption of 8.1 L/100 km, while hybrid models were significantly more efficient at 5.1 L/100 km."
 
   - name: "First Generation Facelift"
